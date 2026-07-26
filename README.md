@@ -54,10 +54,10 @@ An AI-enabled digital platform built around a hybrid care model with mood tracki
 
 ## 🌐 Connect With Me
 
-* **Portfolio:** Coming Soon
+* **Portfolio:** https://shreyansh-portfolio-sigma.vercel.app/
 * **GitHub:** https://github.com/shreyanshdubeyy
-* **LinkedIn:** Add your LinkedIn profile
-* **Email:** Add your email
+* **LinkedIn:** https://linkedin.com/in/shreyansh-dubey-a553a3370
+* **Email:** dubeyshreyansh20@gmail.com
 
 ## 📜 License
 

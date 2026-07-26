@@ -1,52 +1,68 @@
-# Shreyansh Dubey — Portfolio
+# Shreyansh Dubey — Developer Portfolio
 
-A modern, animated portfolio built with Next.js, Tailwind CSS, and Framer Motion.
-Theme: dark "circuit + neural network" identity — a nod to AI & Robotics.
+Welcome to my personal developer portfolio.
 
-## Folder structure
+This portfolio showcases my journey as an **AI & Robotics Engineer** and **Full-Stack Developer**, along with my projects, technical skills, education, and experience.
 
-```
-components/
-  Nav.jsx            navigation bar with scroll-spy
-  CircuitSpine.jsx    left-side section indicator (signature element)
-  Hero.jsx            landing section with typing animation + neural canvas
-  NeuralCanvas.jsx     animated node/connection background
-  About.jsx
-  Skills.jsx
-  Projects.jsx
-  Education.jsx
-  Contact.jsx
-  Ui.jsx              shared Reveal / Eyebrow / SectionHeading / Chip
-data/
-  content.js          all resume content lives here — edit this file to update text
-pages/
-  _app.jsx
-  index.jsx
-styles/
-  globals.css
-```
+## 🚀 About
 
-## Getting started
+I'm **Shreyansh Dubey**, a B.Tech graduate in **Artificial Intelligence and Robotics**, passionate about building AI-powered applications, intelligent systems, and modern web experiences.
 
-1. Make sure **Node.js** (18+) and **npm** are installed.
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Run the dev server:
-   ```
-   npm run dev
-   ```
-4. Open http://localhost:3000
+> **Transforming Ideas into Intelligent Digital Reality.**
 
-## Customizing content
+## 🛠️ Tech Stack
 
-Everything text-based (name, bio, projects, skills, education, certifications,
-contact links) lives in `data/content.js`. Update the `github` and `linkedin`
-URLs there — they're currently placeholders.
+* **Frontend:** React.js, Next.js, JavaScript, Tailwind CSS
+* **Backend:** Python, FastAPI, REST APIs
+* **AI & ML:** AI Agents, LLMs, NLP, Machine Learning
+* **Programming:** C++, Python, JavaScript
+* **Database & Tools:** SQL, Git, GitHub
+* **Other:** Arduino, Robotics
 
-## Deploy
+## 💻 Featured Projects
 
-Easiest path is [Vercel](https://vercel.com/new): import this project and it
-will detect Next.js automatically. Netlify also works with the Next.js
-runtime plugin enabled.
+### AI Coding Agent
+
+An AI-powered coding assistant that analyzes uploaded source code using intelligent agent workflows, automated linting, testing, complexity analysis, and code quality insights.
+
+### AI Resume Analyzer
+
+An AI-powered resume analysis platform that evaluates ATS compatibility, extracts skills, and generates personalized improvement suggestions.
+
+### A3 Bujji
+
+An Arduino-based smart car prototype featuring automatic navigation, obstacle detection, and multiple operational modes.
+
+### Deepfake CRM
+
+A machine learning-based deepfake detection system integrated with a CRM platform for media authenticity verification.
+
+### Hybrid & Intelligent Psyche Intervention System
+
+An AI-enabled digital platform built around a hybrid care model with mood tracking, resource recommendations, teletherapy, and expert support.
+
+## 📂 Portfolio Features
+
+* Modern responsive design
+* Interactive animated background
+* Cursor-reactive neural particles
+* Smooth scrolling navigation
+* Project showcase with GitHub and live demo links
+* Skills and education sections
+* Contact section
+* Responsive design for desktop and mobile
+
+## 🌐 Connect With Me
+
+* **Portfolio:** Coming Soon
+* **GitHub:** https://github.com/shreyanshdubeyy
+* **LinkedIn:** Add your LinkedIn profile
+* **Email:** Add your email
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Built with ❤️ by **Shreyansh Dubey**

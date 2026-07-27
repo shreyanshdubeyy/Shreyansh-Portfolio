@@ -14,7 +14,7 @@ export const PROFILE = {
   summary:
     "B.Tech student in Artificial Intelligence & Robotics, building practical systems across machine learning, NLP, computer vision, and autonomous hardware — dedicated to continuous learning and creative, real-world problem solving.",
   about1:
-    "I'm a motivated and detail-oriented **Artificial Intelligence & Robotics Engineer with a B.Tech degree from Gyan Ganga Institute of Technology and Science. I enjoy turning research-driven ideas in artificial intelligence, machine learning, generative AI, computer vision, and robotics into practical, real-world solutions",
+    "I'm a motivated, detail-oriented B.Tech graduate specializing in Artificial Intelligence and Robotics, from Gyan Ganga Institute of Technology and Science. I enjoy turning research-driven ideas in artificial intelligence, machine learning, generative AI, computer vision, and robotics into practical, real-world solutions",
 
   about2:
     "Outside of coursework, I build full-stack AI applications, train and fine-tune models, and tinker with robotics hardware. I'm looking for opportunities to apply what I've learned in a professional environment that values innovation and teamwork.",

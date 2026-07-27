@@ -18,7 +18,7 @@ export default function About() {
           <div className="rounded-xl p-6 border border-border bg-surface">
             <div className="flex items-center gap-2 mb-4 text-accent">
               <GraduationCap size={18} />
-              <span className="text-sm font-mono">Currently</span>
+              <span className="text-sm font-mono">Education</span>
             </div>
             <p className="text-slate-200 font-medium mb-1">
               {current.title}
